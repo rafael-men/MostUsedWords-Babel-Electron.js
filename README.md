@@ -1,1 +1,1 @@
-Most used words search machine made with vue.js, babel and electron.js
+Most used words search engine made with vue.js, babel and electron.js
